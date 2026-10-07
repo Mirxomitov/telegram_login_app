@@ -1,0 +1,2 @@
+// Bot client ID from @BotFather; change with tool/set_client_id.sh
+TELEGRAM_CLIENT_ID=8991968189
